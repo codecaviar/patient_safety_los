@@ -24,7 +24,7 @@ The project implemented, compared, and assessed five supervised learning algorit
 
 The ROC curve shows the false positive rate (FPR) against the True Positive rate (TPR). The ideal ROC curve would be at the top left-hand corner of the image at a TPR of 1.0 and FPR of 0.0, our model is slightly above average as it's above the basic threshold which is the red line at 50%. We have an AUC ROC score of 71% with the implemented SVM model - a 4.4% improvement from the default SVM model.
 
-<img src="assets/fig15-model-roc-svm-metrics"/>
+<img src="assets/fig15-model-roc-svm-metrics.png"/>
 
 ## Getting Started
 
